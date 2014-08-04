@@ -1,0 +1,16 @@
+{
+  "license": "MIT",
+  "name": "guga",
+  "repository": {
+    "url": "git://github.com/matiu/guga.git",
+    "type": "git"
+  },
+  "author": "Matias Alejo Garcia",
+  "version": "0.0.1",
+  "dependencies": {
+    "bitcore": "*",
+    "bip38": "*"
+  },
+  "main": "guga.js",
+  "description": "Bitcoin BIP38 password checker"
+}
